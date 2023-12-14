@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cauã Silva
+- 👀 I’m interested in Python, Jv, C# and C++ between others
+- 🌱 I’m currently learning Python 
+- 📫 How to reach me, you can usa email: cauatec25@gmail.com
+- 🤪My English is very basic, please, if you get in touch, know that my English is beginner's level.
